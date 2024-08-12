@@ -5,3 +5,12 @@
   border-radius: 4px;
   color: red;
 }
+
+.SearchWeather ul {
+  margin: 0;
+  padding: 0;
+}
+
+.SearchWeather li {
+  list-style: none;
+}
